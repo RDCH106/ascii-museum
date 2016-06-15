@@ -1,0 +1,31 @@
+{
+  "name": "ascii-museum",
+  "version": "0.0.1",
+  "description": "Museum based on electron to create desktop app or web",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "authors": "echo \"Author: rdcelis, vgoni\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RDCH106/ascii-museum"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/RDCH106/ascii-museum/issues"
+  },
+  "homepage": "https://github.com/RDCH106/ascii-museum",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0",
+    "electron-packager": "~7.0.4",
+    "electron-builder": "~5.4.1"
+  }
+}
